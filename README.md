@@ -30,7 +30,9 @@ GoogD0rker https://github.com/ZephrFish/GoogD0rker/
 
 Wayback Machine https://web.archive.org
 
-waybackurls https://gist.github.com/mhmdiaa/adf6bff70142e5091792841d4b372050 Sn1per https://github.com/1N3/Sn1per/
+waybackurls https://gist.github.com/mhmdiaa/adf6bff70142e5091792841d4b372050 
+
+Sn1per https://github.com/1N3/Sn1per/
 
 XRay https://github.com/evilsocket/xray
 
@@ -44,13 +46,15 @@ hydra https://github.com/vanhauser-thc/thc-hydra
 
 changeme https://github.com/ztgrace/changeme
 
-MobSF https://github.com/MobSF/Mobile-Security-Framework-MobSF/ Apktool https://github.com/iBotPeaches/Apktool
+MobSF https://github.com/MobSF/Mobile-Security-Framework-MobSF/
+
+Apktool https://github.com/iBotPeaches/Apktool
 
 dex2jar https://sourceforge.net/projects/dex2jar/
 
 sqlmap http://sqlmap.org/
 
-oxml_xxe https://github.com/BuffaloWill/oxml_xxe/ @myhackersworld
+oxml_xxe https://github.com/BuffaloWill/oxml_xxe/
 
 XXE Injector https://github.com/enjoiz/XXEinjector
 
