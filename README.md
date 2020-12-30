@@ -18,7 +18,7 @@ DirBuster https://sourceforge.net/projects/dirbuster/
 
 dirsearch https://github.com/maurosoria/dirsearch
 
-Gitrob https://github.com/michenriksen/gitrob @myhackersworld
+Gitrob https://github.com/michenriksen/gitrob
 
 git-secrets https://github.com/awslabs/git-secrets
 
@@ -68,7 +68,9 @@ dvcs-ripper https://github.com/kost/dvcs-ripper
 
 tko-subs https://github.com/anshumanbh/tko-subs
 
-HostileSubBruteforcer https://github.com/nahamsec/HostileSubBruteforcer Race the Web https://github.com/insp3ctre/race-the-web
+HostileSubBruteforcer https://github.com/nahamsec/HostileSubBruteforcer 
+
+Race the Web https://github.com/insp3ctre/race-the-web
 
 ysoserial https://github.com/GoSecure/ysoserial
 
